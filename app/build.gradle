@@ -1,0 +1,82 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.cnsunrun.tiansu"
+        minSdkVersion 14
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: applicationId,
+                JPUSH_APPKEY : "9dda18b7eb400ec5dc99b6e8",//JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+        ]
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile project(':sharesdkutils')
+    compile project(':sunrunframwork')
+
+    compile 'com.android.support:palette-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.2.1'
+
+    compile('com.yalantis:ucrop:2.2.0') {
+        exclude group: 'com.android.support'
+        exclude group: 'com.squareup.okio'
+        exclude group: 'com.squareup.okhttp3'
+    }
+    compile('skin.support:flycotablayout:2.1.2', {
+        exclude group: 'com.android.support'
+    })
+    //找控件的库
+    compile 'com.jakewharton:butterknife:7.0.0'
+    //圆形图片的库
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    //标签切换  导航栏的切换的库
+    compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
+    compile 'q.rorbin:badgeview:1.1.0'
+    // 从相册去图片 裁剪图片的库
+    compile 'com.bilibili:boxing-impl:0.4.0'
+    // 齿轮选择的库
+    compile 'cn.aigestudio.wheelpicker:WheelPicker:1.1.2'
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22'
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.zhy:flowlayout-lib:1.0.3'
+    // 动画的库 兼容低版本的库
+    compile 'com.nineoldandroids:library:2.4.0'
+    //解耦通信的库
+    compile 'de.greenrobot:eventbus:2.4.0'
+    //极光推送
+//    compile 'cn.jiguang.sdk:jpush:3.0.3'
+//    compile 'cn.jiguang.sdk:jcore:1.1.1'
+    //权限适配
+    compile 'com.yanzhenjie:permission:1.0.8'
+
+    compile 'com.github.chrisbanes:PhotoView:2.0.0'
+
+
+
+}

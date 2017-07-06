@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\right_in.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_out.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\time_sel_dimiss.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\time_sel_dimiss.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\dialog_dimiss.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\dialog_dimiss.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\dialog_show.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\dialog_show.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\right_out.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_in.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\time_sel_show.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\time_sel_show.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\bottom_out.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\release\\anim\\bottom_in.xml",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\anim\\bottom_in.xml"
+    }
+]

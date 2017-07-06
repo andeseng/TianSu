@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 黑色背景透明度88 -->
+    <color name="black_lucency">#00000000</color>
+    <color name="black_lucency_11">#11000000</color>
+    <color name="black_lucency_0F">#0F000000</color>
+    <color name="black_lucency_33">#33000000</color>
+    <color name="black_lucency_88">#88000000</color>
+    <color name="black_lucency_99">#99000000</color>
+    <color name="black_lucency_3c">#3C000000</color>
+    <!-- 分割线的颜色 -->
+    <color name="limit_line1">#dddddd</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="title_bar_text_color">#222222</color>
+
+    <color name="text1">#333333</color>
+    <color name="text2">#444444</color>
+    <color name="text3">#666666</color>
+    <color name="text4">#999999</color>
+    <color name="text5">#cccccc</color>
+
+    <color name="main_color">#2a2b2f</color>
+    <color name="main_btn_">#e91b7d</color>
+    <color name="main_press">#c82472</color>
+    <color name="main_black">#8a2356</color>
+    <color name="main_btn_cancel">#d8d8d8</color>
+    <color name="bg_color">#F2F2F2</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

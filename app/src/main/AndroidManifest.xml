@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cnsunrun.tiansu">
+
+    <application
+        android:name=".common.TianSuApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".login.activity.SplashActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".main.activity.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".login.activity.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity android:name=".main.activity.WebActivity"></activity>
+
+        <activity android:name=".login.activity.BindPhoneNumberActivity"></activity>
+        <activity android:name=".login.activity.FindPasswordStepTwoActivity"></activity>
+        <activity android:name=".login.activity.RegisteredActivity"></activity>
+        <activity android:name=".login.activity.FindPasswordStepOneActivity"></activity>
+        <activity android:name=".login.activity.InformedConsentActivity"></activity>
+        <!--这个是用来测试的activity-->
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id">toolbar</item>
+    <item name="titleContainer" type="id">titleContainer</item>
+    <!--给图片标记索引位置-->
+    <item name="indexTag" type="id" />
+</resources>

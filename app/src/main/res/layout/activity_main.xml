@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.cnsunrun.tiansu.common.widget.NoScrollViewPager
+        android:id="@+id/vp_main_center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lin_main_buttom" />
+
+
+    <View
+        style="@style/limit_line"
+        android:layout_above="@id/lin_main_buttom" />
+
+    <LinearLayout
+        android:id="@+id/lin_main_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal">
+
+        <com.flyco.tablayout.CommonTabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/main_tab_bg"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            app:tl_iconHeight="25dp"
+            app:tl_iconMargin="0dp"
+            app:tl_iconWidth="25dp"
+            app:tl_indicator_color="@android:color/transparent"
+            app:tl_textSelectColor="@color/home_tab_select_color"
+            app:tl_textUnselectColor="@color/home_tab_unselect_color"
+            app:tl_textsize="12sp" />
+    </LinearLayout>
+</RelativeLayout>

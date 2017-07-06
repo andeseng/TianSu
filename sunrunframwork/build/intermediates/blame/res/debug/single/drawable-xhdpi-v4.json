@@ -1,0 +1,914 @@
+[
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_title_left_arrow.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_title_left_arrow.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_nopic.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\new_nopic.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pic_dir.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pic_dir.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_gengduo.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_gengduo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_h.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\back_h.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_youxiang.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_youxiang.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sousuo.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\sousuo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_delete.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_delete.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pictures_no.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pictures_no.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\picture_unselected.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_title_left_arrow.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_title_left_arrow.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\icon_left.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pictures_selected.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test_icon.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\test_icon.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_delete.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_delete.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_red_dot.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_red_dot.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\help_.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\help_.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_right_arrow.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_red_dot.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_red_dot.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_gengduo.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_gengduo.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\picture_unselected.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_h.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\back_h.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_youxiang.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_youxiang.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\help_.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\help_.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_right_arrow.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pictures_selected.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test_icon.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\test_icon.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sousuo.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\sousuo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pictures_no.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pictures_no.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_nopic.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\new_nopic.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_seleted.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_seleted.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_seleted.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\ic_seleted.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pic_dir.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\pic_dir.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_left.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\icon_left.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\like_project\\TianSu\\sunrunframwork\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "F:\\like_project\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "F:\\like_project\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MeiY\\.android\\build-cache\\b710d9974092e5098263e6995802e8aa81c99ff0\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sunrunframwork\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "F:\\app_project\\tiansu\\APP_android\\TianSu\\sharesdkutils\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png"
+    }
+]

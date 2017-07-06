@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/main_color</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">@color/black</color>
+
+    <color name="main_color">#FFCD04</color>
+    <color name="main_color_2">#9FA8DA</color>
+    <color name="black">#000000</color>
+    <color name="black_30">#222222</color>
+    <color name="black_40">#373A43</color>
+    <color name="coffee">#5E3300</color>
+    <color name="bg_color">#F2F2F2</color>
+    <color name="line_bg_light">#DFDFDF</color>
+    <color name="line_bg_dark">#F2F2F2</color>
+    <color name="gray_20">#999999</color>
+    <color name="gray_30">#666666</color>
+    <color name="gray_40">#777777</color>
+    <color name="gray_50">#CCCCCC</color>
+    <color name="gray_70">#888888</color>
+    <color name="gray_90">#DDDDDD</color>
+    <color name="gray_100">#BBBBBB</color>
+    <color name="dim_10">#B4BDC8</color>
+    <color name="dim_20">#D7EEFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_30">#FFF5D0</color>
+    <color name="white_40">#FAFAFA</color>
+    <color name="white_50">#EAEAEA</color>
+    <color name="white_60">#FFFAE7</color>
+    <color name="yellow_10">#FFE181</color>
+    <color name="yellow_20">#FFF5CD</color>
+    <color name="yellow_30">#FFE7D5</color>
+    <color name="yellow_40">#F1F9FF</color>
+    <color name="yellow_80">#FFB504</color>
+    <color name="yellow_90">#FFA800</color>
+    <color name="yellow_100">#FFDB69</color>
+    <color name="red">#FF3F4E</color>
+    <color name="orange">#EBA765</color>
+    <color name="orange_90">#FF6C00</color>
+    <color name="orange_100">#FF8A34</color>
+    <color name="indicator_black_color">#4C000000</color>
+
+    <color name="title_color">#CCCCCC</color>
+    <color name="item_white_bg">#FFFFFF</color>
+    <color name="btn_color">#FFDB66</color>
+    <color name="btn_color_2">#FFFAE7</color>
+    <color name="title_bar_bg">#FFDB66</color>
+
+
+    <color name="home_questionnaire_color">#FF8A34</color>
+    <color name="home_tab_select_color">#5E3300</color>
+    <color name="home_tab_unselect_color">#222222</color>
+    <color name="home_more_text_color">@color/gray_30</color>
+    <color name="home_lab_title_text_color">@color/black_30</color>
+    <color name="hot_search_item_bg_select_color">@color/btn_color</color>
+    <color name="hot_search_item_bg_unselect_color">#F8F8F8</color>
+    <color name="searchresult_text_color">#5E3300</color>
+    <color name="questionnaire_bg_color">#CCFFFFFF</color>
+    <color name="lab_bg_color">#FFC076</color>
+    <color name="lab_bg_white">#FFF7EE</color>
+
+
+    <color name="look_more_text_color">#FF8A34</color>
+    <color name="go_to_the_answer_text_color">#FF8A34</color>
+    <color name="drop_down_text_color">#FF8A34</color>
+    <color name="look_theme_text_color">#FF8A34</color>
+    <color name="post_tab_text_color">#FF8A34</color>
+    <color name="post_tab_line_color">#FF8A34</color>
+    <color name="item_game_text_color">#FF8A34</color>
+    <color name="answer_text_color">#FF8A34</color>
+    <color name="up_down_arrow_select_color">#FF8A34</color>
+    <color name="user_page_bg_color">#FFC133</color>
+    <color name="user_page_age_text_color">#FF8A34</color>
+    <color name="start_text_color">#FF8A34</color>
+    <color name="accomplishment_score_text_color">#FF6C00</color>
+    <color name="item_score_text_color">#FF8A34</color>
+    <color name="item_state_text_color">#FF8A34</color>
+    <color name="item_use_state_text_color">#FF8A34</color>
+    <color name="push_tag_bg_color">#FF8A34</color>
+    <color name="time_text_color">#FF8A34</color>
+    <color name="study_bg_color">#50FFA800</color>
+    <color name="use_dialog_title_bg_color">#FFF5CD</color>
+    <color name="go_to_study_text_color">#FFB504</color>
+    <color name="exchange_tips_text_color">#FFB504</color>
+    <color name="main_tab_bg">#FFFFFF</color>
+    <color name="exchange_bg_color">#FFFFFF</color>
+    <color name="Lucky_draw_bg_color">#FFFFFF</color>
+    <color name="questionnaire_list_text_color">#FFCD04</color>
+    <color name="tip_text_color">#FF8A34</color>
+    <color name="home_lab_bg_color">#FFFFFF</color>
+    <color name="questionnaire_tip_text_color">#222222</color>
+    <color name="home_lab_text_color">#999999</color>
+    <color name="game_start_btn_bg">#FFDB66</color>
+    <color name="post_theme_details_select_text_color">#FF8A34</color>
+    <color name="post_theme_details_un_select_text_color">#222222</color>
+    <color name="post_theme_details_tab_line_color">#FF8A34</color>
+    <color name="dialog_text_color">#222222</color>
+    <color name="dialog_text_color_2">#999999</color>
+    <color name="dialog_phone_bg_color">#FEF9F3</color>
+    <color name="dialog_text_bg_color">#EAEAEA</color>
+    <color name="dialog_text_bg_color_2">#FFDB66</color>
+    <color name="informed_consent_btn_text_color_1">#777777</color>
+    <color name="informed_consent_btn_bg_color_1">#EAEAEA</color>
+    <color name="informed_consent_btn_text_color_2">#222222</color>
+    <color name="informed_consent_btn_bg_color_2">#FFDB66</color>
+    <color name="transmit_text_color">#FFCD04</color>
+    <color name="home_bottom_tab_text_un_select_color">#222222</color>
+    <color name="home_bottom_tab_text_select_color">#5E3300</color>
+    <color name="home_bottom_line_color">#CCCCCC</color>
+    <color name="game_rank_text_color">#5E3300</color>
+    <color name="tab_layout_un_select_text_color">#5E3300</color>
+    <color name="tab_layout_select_text_color">#FFFFFF</color>
+    <color name="tab_layout_stroke_color">#5E3300</color>
+    <color name="main_text_color">#fff</color>
+
+</resources>
